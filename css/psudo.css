@@ -1,0 +1,20 @@
+p::first-line{
+    background-color: aqua;
+}
+p::first-letter{
+    font-size: 50px;
+    color: red;
+}
+p::after{
+    content: url(/12.jpg);
+    height: 50px;
+    width: 50px;
+}
+p::before{
+    content: url(/dhoni.webp);
+    height: 50px;
+    width: 50px;
+}
+li::marker{
+    color: aqua;
+}

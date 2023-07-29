@@ -1,0 +1,43 @@
+/* h1{
+    text-align: center;
+    text-decoration: nones;
+    color: red;
+    text-indent: 100px;
+    text-shadow: 10px 10px 10px black;
+    letter-spacing: 5PX;
+    word-spacing: 100px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: bold;
+    font-stretch: expanded;
+    font-weight: 100px;
+
+} */
+/* body{
+    background: linear-gradient(skyblue,black);
+    background-image: url(./dhoni.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; */
+
+
+/* } */
+
+body{
+    background:linear-gradient(green,black);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+h2{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 300px;
+    
+
+}
+

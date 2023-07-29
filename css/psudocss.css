@@ -1,0 +1,39 @@
+h1:hover{
+    font-size: 30px;
+    color: aqua;
+    background-color: blueviolet;
+}
+.img1{
+    height: 300px;
+    width: 300px;
+
+
+}
+.img1:hover{
+    border-radius: 50%;
+
+}
+a:visited{
+    color: orange;
+}
+a:active{
+    color: black;
+}
+p:first-child{
+    background: red;
+}
+p:last-child{
+    background-color: brown;
+}
+p:last-of-type{
+    font-size: 70px;
+}
+p:first-of-type{
+    color:white;
+    font-size: 31px;
+}
+p:nth-child(2){
+    background: yellow;
+    font-size: 20px;
+    font-variant: small-caps;
+}

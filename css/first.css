@@ -1,0 +1,51 @@
+*{
+    background-color: skyblue;
+
+}
+#span{
+    color: orangered;
+}
+#s1{
+    background: red;
+    text-align: center;
+}
+#s2{
+    background: yellow;
+    text-align: center;
+}
+#p1{
+    background-color: #000;
+    background:#900;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+
+}
+#p2{
+    background-color: #000;
+    background:red;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+#p3{
+    background-color: #000;
+    background:yellow;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+.img1{
+
+    height: 100px;
+    width: 100px;
+}
+.img2{
+    height: 100px;
+    width: 100px;
+}
+.E1{
+    align-items: center;
+    nav-left: auto;
+    
+}
